@@ -1,6 +1,6 @@
-# Machine Learning in Python #
-## Essential Techniques for Predictive Analysis ##
-## Michael Bowles ##
+# Machine Learning in Python by Michael Bowles #
+### ISBN: 978-1-118-96174-2 ###
+### April 2015 ###
 ### Chapter 1  The Two Essential Algorithms for Making Predictions ###
 ### Chapter 2  Understand the Problem by Understanding the Data ###
 ### Chapter 3  Predictive Model Building: Balancing Performance, Complexity, and Big Data ###
